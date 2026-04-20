@@ -12,4 +12,4 @@ This project is a decentralized application built on the Stellar network using S
 - **Contract ID:** CCJ54JZJETCC5HV26Z65DXV6JKMN6KFOARGAQXYNU72EKKBHLED6P55J
 
 ## 📸 Application Screenshot
-![App Screenshot](./screenshot.png)
+![App Screenshot](./screenshot.png.png)
